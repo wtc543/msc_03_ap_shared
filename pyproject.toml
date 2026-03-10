@@ -1,0 +1,18 @@
+[project]
+name = "msc-01-ap-shared"
+version = "0.1.0"
+description = "Shared exercises"
+authors = [
+    {name = "James Packham",email = "wtc543@york.ac.uk"}
+]
+license = {text = "Apache License 2.0"}
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = [
+    "jupyter (>=1.1.1,<2.0.0)"
+]
+
+
+[build-system]
+requires = ["poetry-core>=2.0.0,<3.0.0"]
+build-backend = "poetry.core.masonry.api"
