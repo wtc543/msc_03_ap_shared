@@ -1,0 +1,88 @@
+<?xml version = "1.0" encoding = "UTF-8"?>
+<GradeData>
+  <StudentDetails>
+    <ID>16430122-1521</ID>
+    <Student>Pace, Camden G.</Student>
+    <Mathematics>
+      <Test_1>54%</Test_1>
+      <Test_2>63%</Test_2>
+    </Mathematics>
+    <English_Assignment_1>
+      <Essay_1>C+</Essay_1>
+      <Essay_2>B+</Essay_2>
+      <Activity_1>Pass</Activity_1>
+    </English_Assignment_1>
+    <IT>
+      <Test_2>32%</Test_2>
+      <Essay_3>C+</Essay_3>
+    </IT>
+  <StudentDetails/>
+  <StudentDetails>
+    <ID>16470212-9851</ID>
+    <Student>Weber, Lucy X.</Student>
+    <Mathematics>
+      <Test_1>32%</Test_1>
+      <Test_2>41%</Test_2>
+    </Mathematics>
+    <English_Assignment_1>
+      <Essay_1>C-</Essay_1>
+      <Essay_2>C-</Essay_2>
+      <Activity_1>Fail</Activity_1>
+    </English_Assignment_1>
+    <IT>
+      <Test_2>73%</Test_2>
+      <Essay_3>D+</Essay_3>
+    </IT>
+  <StudentDetails/>
+  <StudentDetails>
+    <ID>16060213-9990</ID>
+    <Student>Branch, Caesar A.</Student>
+    <Mathematics>
+      <Test_1>73%</Test_1>
+      <Test_2>81%</Test_2>
+    </Mathematics>
+    <English_Assignment_1>
+      <Essay_1>C-</Essay_1>
+      <Essay_2>C+</Essay_2>
+      <Activity_1>Pass</Activity_1>
+    </English_Assignment_1>
+    <IT>
+      <Test_2>63%</Test_2>
+      <Essay_3>B+</Essay_3>
+    </IT>
+  <StudentDetails/>
+  <StudentDetails>
+    <ID>16720905-9422</ID>
+    <Student>Beck, Sara K.</Student>
+    <Mathematics>
+      <Test_1>66%</Test_1>
+      <Test_2>57%</Test_2>
+    </Mathematics>
+    <English_Assignment_1>
+      <Essay_1>C-</Essay_1>
+      <Essay_2>D+</Essay_2>
+      <Activity_1>Pass</Activity_1>
+    </English_Assignment_1>
+    <IT>
+      <Test_2>41%</Test_2>
+      <Essay_3>C-</Essay_3>
+    </IT>
+  <StudentDetails/>
+  <StudentDetails>
+    <ID>16471011-5884</ID>
+    <Student>Valenzuela, Daphne E.</Student>
+    <Mathematics>
+      <Test_1>43%</Test_1>
+      <Test_2>45%</Test_2>
+    </Mathematics>
+    <English_Assignment_1>
+      <Essay_1>B+</Essay_1>
+      <Essay_2>A-</Essay_2>
+      <Activity_1>Fail</Activity_1>
+    </English_Assignment_1>
+    <IT>
+      <Test_2>63%</Test_2>
+      <Essay_3>C-</Essay_3>
+    </IT>
+  <StudentDetails/>
+<GradeData/>
